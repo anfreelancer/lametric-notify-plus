@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LaMetric Notify+ Smart</string>
+    <string name="buy" translatable="false">BUY</string>
+    <string name="premium" translatable="false">Premium</string>
+    <string name="description_app_icon">App Icon</string>
+
+    <string name="button_text_save">Save</string>
+    <string name="button_text_help">Help</string>
+
+    <string name="edittext_hint_search">Search</string>
+    <string name="edittext_hint_address">IP Address</string>
+    <string name="edittext_hint_api_key">Device API Key</string>
+
+    <string name="icon_instagram">3741</string>
+    <string name="icon_facebook">38032</string>
+    <string name="icon_snapchat">16517</string>
+    <string name="icon_whatsapp">38033</string>
+    <string name="icon_gmail">43</string>
+    <string name="icon_signal">38034</string>
+    <string name="icon_linkedin">38035</string>
+    <string name="icon_messenger">32844</string>
+    <string name="icon_discord">38036</string>
+    <string name="icon_reddit">38037</string>
+    <string name="icon_twitter">29632</string>
+    <string name="icon_youtube">974</string>
+    <string name="icon_twitch">35482</string>
+    <string name="icon_tiktok">35685</string>
+    <string name="icon_paypal">15188</string>
+    <string name="icon_steam">28166</string>
+    <string name="icon_github">18663</string>
+</resources>
